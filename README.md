@@ -8,3 +8,6 @@ Afegit:
   - Nous enemics que disparen
   - Nous enemigs que disparen triple (en cono)
   - Boss
+
+Fet amb Unity 2018
+
